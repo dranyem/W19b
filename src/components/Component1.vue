@@ -13,7 +13,6 @@ export default {
 
 <style scoped>
     #component1{
-        border-bottom: 1px solid black;
         border-top: 1px solid black;
     }
     p{
