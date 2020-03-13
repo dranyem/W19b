@@ -12,7 +12,7 @@ export default {
 <style scoped>
     #header{
         width: 100%;
-        height: 20vh;
+        height: 15vh;
         background: lightblue;
     }
 </style>

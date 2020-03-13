@@ -1,5 +1,6 @@
 <template>
     <div id="body">
+        <h1>Body</h1>
         <component1/>
         <component2/>
         <component3/>
@@ -23,7 +24,7 @@ export default {
 <style>
     #body{
         width:100%;
-        height: 60vh;
+        height: 65vh;
         background: yellow;
     }
 </style>
